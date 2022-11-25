@@ -1,4 +1,4 @@
-server.port: 5011
+server.port: 5012
 app.name: configYamlgithug
 greetings:
           msg: Merry Christmas from githug from ${app.name}
