@@ -1,7 +1,6 @@
-server.port: 5011
 app.name: config Git Yaml
 greetings:
-          msg: Marry Christmas configclient git from ${app.name}
+          msg: Marry Christmas configclient from ${app.name}
 frndslist:
           values: Ram,hari,sita
 DBproperties: "{host:'10.11.10',username:'xyz',password:'xyzz'}"
