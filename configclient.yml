@@ -1,5 +1,5 @@
 server.port: 5011
-app.name: configYaml
+app.name: config Git Yaml
 greetings:
           msg: Marry Christmas configclient git from ${app.name}
 frndslist:
