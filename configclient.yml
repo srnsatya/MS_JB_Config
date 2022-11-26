@@ -11,8 +11,8 @@ db:
    port: 1111
    connection:
               serviceid: MyDB
-              username: test
-              password: test123
+              username: test1
+              password: test1231
    schemas[0]: schema1
    schemas[1]: schema2
 management.endpoints.web.exposure.include: "*"
