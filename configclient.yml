@@ -4,7 +4,7 @@ greetings:
           msg: Marry Christmas configclient git from ${app.name}
 frndslist:
           values: Ram,hari,sita
-DBproperties: "{host:'10.10.10',username:'xyz',password:'xyzz'}"
+DBproperties: "{host:'10.11.10',username:'xyz',password:'xyzz'}"
 db:
    driver: jdbc.odbc.thin.driver
    host: 10.19.10.11
