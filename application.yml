@@ -2,7 +2,7 @@ app.name: configYaml-githug
 greetings:
           msg: Merry Christmas from githug from ${app.name}
 frndslist:
-          values: Ram,hari,sita
+          values: Ram,hari,sita,gita
 DBproperties: "{host:'10.10.13',username:'xyz',password:'xyzz'}"
 db:
    driver: jdbc.odbc.thin.driver
