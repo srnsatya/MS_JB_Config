@@ -1,4 +1,4 @@
-app.name: configYaml-githug
+app.name: Default applicationYaml-githug
 greetings:
           msg: Merry Christmas from githug from ${app.name}
 frndslist:
